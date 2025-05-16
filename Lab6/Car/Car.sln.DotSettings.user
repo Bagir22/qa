@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/Users/danilayanvarev/Library/Caches/JetBrains/Rider2024.3/resharper-host/temp/Rider/vAny/CoverageData/_Car.-1946943623/Snapshot/snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4a3f9dd1_002D98ef_002D4277_002Da146_002D37160d6ad2dc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CarTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::5F055277-DEFA-4154-BA45-1D663C84F7A9::net9.0::CarTests.CarTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=52c4cef8_002D0eae_002D44dc_002Da004_002D49111f82673c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CarTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::5F055277-DEFA-4154-BA45-1D663C84F7A9::net9.0::CarTests.CarTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

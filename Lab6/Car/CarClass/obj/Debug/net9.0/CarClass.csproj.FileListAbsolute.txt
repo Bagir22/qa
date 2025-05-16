@@ -1,0 +1,11 @@
+/Users/danilayanvarev/Desktop/qa/Lab6/Car/CarClass/bin/Debug/net9.0/CarClass.deps.json
+/Users/danilayanvarev/Desktop/qa/Lab6/Car/CarClass/bin/Debug/net9.0/CarClass.dll
+/Users/danilayanvarev/Desktop/qa/Lab6/Car/CarClass/bin/Debug/net9.0/CarClass.pdb
+/Users/danilayanvarev/Desktop/qa/Lab6/Car/CarClass/obj/Debug/net9.0/CarClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilayanvarev/Desktop/qa/Lab6/Car/CarClass/obj/Debug/net9.0/CarClass.AssemblyInfoInputs.cache
+/Users/danilayanvarev/Desktop/qa/Lab6/Car/CarClass/obj/Debug/net9.0/CarClass.AssemblyInfo.cs
+/Users/danilayanvarev/Desktop/qa/Lab6/Car/CarClass/obj/Debug/net9.0/CarClass.csproj.CoreCompileInputs.cache
+/Users/danilayanvarev/Desktop/qa/Lab6/Car/CarClass/obj/Debug/net9.0/CarClass.dll
+/Users/danilayanvarev/Desktop/qa/Lab6/Car/CarClass/obj/Debug/net9.0/refint/CarClass.dll
+/Users/danilayanvarev/Desktop/qa/Lab6/Car/CarClass/obj/Debug/net9.0/CarClass.pdb
+/Users/danilayanvarev/Desktop/qa/Lab6/Car/CarClass/obj/Debug/net9.0/ref/CarClass.dll

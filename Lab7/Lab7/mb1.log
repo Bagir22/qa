@@ -1,0 +1,76 @@
+{"level":"info","message":"[mb:2525] mountebank v2.9.1 now taking orders - point your browser to http://localhost:2525/ for help","timestamp":"2025-04-12T14:20:39.995Z"}
+{"level":"info","message":"[mb:2525] POST /imposters","timestamp":"2025-04-12T14:20:52.981Z"}
+{"level":"info","message":"[http:4545 Currency Mock] Open for business...","timestamp":"2025-04-12T14:20:52.985Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:61940 => GET /rate?from=USD&to=EUR","timestamp":"2025-04-12T14:20:52.988Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:61941 => GET /rate?from=EUR&to=USD","timestamp":"2025-04-12T14:20:52.992Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:61942 => GET /rate?from=EUR&to=RUB","timestamp":"2025-04-12T14:20:52.994Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:61943 => GET /rate?from=USD&to=RUB","timestamp":"2025-04-12T14:20:52.997Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:61944 => GET /rate?from=RUB&to=EUR","timestamp":"2025-04-12T14:20:53.001Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:61945 => GET /rate?from=RUB&to=USD","timestamp":"2025-04-12T14:20:53.017Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:61946 => GET /rate?from=EUR&to=CHF","timestamp":"2025-04-12T14:20:53.020Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:61947 => GET /rate?from=CHF&to=EUR","timestamp":"2025-04-12T14:20:53.024Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:61954 => GET /","timestamp":"2025-04-12T14:21:23.557Z"}
+{"level":"info","message":"[http:4545 Currency Mock] no predicate match, using default response","timestamp":"2025-04-12T14:21:23.558Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:61955 => GET /favicon.ico","timestamp":"2025-04-12T14:21:23.702Z"}
+{"level":"info","message":"[http:4545 Currency Mock] no predicate match, using default response","timestamp":"2025-04-12T14:21:23.704Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:61967 => GET /rate?from=RUB&to=USD","timestamp":"2025-04-12T14:21:28.847Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:61968 => GET /favicon.ico","timestamp":"2025-04-12T14:21:28.950Z"}
+{"level":"info","message":"[http:4545 Currency Mock] no predicate match, using default response","timestamp":"2025-04-12T14:21:28.952Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:61987 => GET /rate?from=RUB&to=EUR","timestamp":"2025-04-12T14:22:27.769Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:61988 => GET /favicon.ico","timestamp":"2025-04-12T14:22:27.825Z"}
+{"level":"info","message":"[http:4545 Currency Mock] no predicate match, using default response","timestamp":"2025-04-12T14:22:27.827Z"}
+{"level":"info","message":"[mb:2525] POST /imposters","timestamp":"2025-04-12T14:23:04.575Z"}
+{"level":"error","message":"[mb:2525] error creating imposter: {\"code\":\"EADDRINUSE\",\"errno\":-48,\"syscall\":\"listen\",\"address\":\"::\",\"port\":4545,\"message\":\"listen EADDRINUSE: address already in use :::4545\",\"name\":\"Error\",\"stack\":\"Error: listen EADDRINUSE: address already in use :::4545\\n    at Server.setupListenHandle [as _listen2] (node:net:1898:16)\\n    at listenInCluster (node:net:1946:12)\\n    at Server.listen (node:net:2044:7)\\n    at /Users/danilayanvarev/.nvm/versions/node/v20.13.1/lib/node_modules/mountebank/src/models/http/baseHttpServer.js:172:20\\n    at new Promise (<anonymous>)\\n    at create (/Users/danilayanvarev/.nvm/versions/node/v20.13.1/lib/node_modules/mountebank/src/models/http/baseHttpServer.js:158:16)\\n    at Object.createServer (/Users/danilayanvarev/.nvm/versions/node/v20.13.1/lib/node_modules/mountebank/src/models/protocols.js:35:34)\\n    at /Users/danilayanvarev/.nvm/versions/node/v20.13.1/lib/node_modules/mountebank/src/models/imposter.js:198:22\\n    at new Promise (<anonymous>)\\n    at Object.create (/Users/danilayanvarev/.nvm/versions/node/v20.13.1/lib/node_modules/mountebank/src/models/imposter.js:192:12)\"}","timestamp":"2025-04-12T14:23:04.578Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62000 => GET /rate?from=USD&to=EUR","timestamp":"2025-04-12T14:23:04.581Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62001 => GET /rate?from=EUR&to=USD","timestamp":"2025-04-12T14:23:04.586Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62002 => GET /rate?from=EUR&to=RUB","timestamp":"2025-04-12T14:23:04.594Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62003 => GET /rate?from=USD&to=RUB","timestamp":"2025-04-12T14:23:04.602Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62004 => GET /rate?from=RUB&to=USD","timestamp":"2025-04-12T14:23:04.611Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62005 => GET /rate?from=EUR&to=CHF","timestamp":"2025-04-12T14:23:04.646Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62006 => GET /rate?from=CHF&to=EUR","timestamp":"2025-04-12T14:23:04.654Z"}
+{"level":"info","message":"[mb:2525] POST /imposters","timestamp":"2025-04-12T14:23:20.895Z"}
+{"level":"error","message":"[mb:2525] error creating imposter: {\"code\":\"EADDRINUSE\",\"errno\":-48,\"syscall\":\"listen\",\"address\":\"::\",\"port\":4545,\"message\":\"listen EADDRINUSE: address already in use :::4545\",\"name\":\"Error\",\"stack\":\"Error: listen EADDRINUSE: address already in use :::4545\\n    at Server.setupListenHandle [as _listen2] (node:net:1898:16)\\n    at listenInCluster (node:net:1946:12)\\n    at Server.listen (node:net:2044:7)\\n    at /Users/danilayanvarev/.nvm/versions/node/v20.13.1/lib/node_modules/mountebank/src/models/http/baseHttpServer.js:172:20\\n    at new Promise (<anonymous>)\\n    at create (/Users/danilayanvarev/.nvm/versions/node/v20.13.1/lib/node_modules/mountebank/src/models/http/baseHttpServer.js:158:16)\\n    at Object.createServer (/Users/danilayanvarev/.nvm/versions/node/v20.13.1/lib/node_modules/mountebank/src/models/protocols.js:35:34)\\n    at /Users/danilayanvarev/.nvm/versions/node/v20.13.1/lib/node_modules/mountebank/src/models/imposter.js:198:22\\n    at new Promise (<anonymous>)\\n    at Object.create (/Users/danilayanvarev/.nvm/versions/node/v20.13.1/lib/node_modules/mountebank/src/models/imposter.js:192:12)\"}","timestamp":"2025-04-12T14:23:20.896Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62013 => GET /rate?from=USD&to=EUR","timestamp":"2025-04-12T14:23:20.898Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62014 => GET /rate?from=EUR&to=USD","timestamp":"2025-04-12T14:23:20.900Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62015 => GET /rate?from=EUR&to=RUB","timestamp":"2025-04-12T14:23:20.902Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62016 => GET /rate?from=USD&to=RUB","timestamp":"2025-04-12T14:23:20.904Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62017 => GET /rate?from=RUB&to=EUR","timestamp":"2025-04-12T14:23:20.907Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62018 => GET /rate?from=RUB&to=USD","timestamp":"2025-04-12T14:23:20.909Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62019 => GET /rate?from=EUR&to=CHF","timestamp":"2025-04-12T14:23:20.911Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62020 => GET /rate?from=CHF&to=EUR","timestamp":"2025-04-12T14:23:20.915Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62093 => GET /rate?from=XYZ&to=ABC","timestamp":"2025-04-12T14:25:47.094Z"}
+{"level":"info","message":"[http:4545 Currency Mock] no predicate match, using default response","timestamp":"2025-04-12T14:25:47.095Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62201 => GET /rate?from=XYZ&to=ABC","timestamp":"2025-04-12T14:29:14.056Z"}
+{"level":"info","message":"[http:4545 Currency Mock] no predicate match, using default response","timestamp":"2025-04-12T14:29:14.057Z"}
+{"level":"info","message":"[mb:2525] POST /imposters","timestamp":"2025-04-12T14:29:25.006Z"}
+{"level":"error","message":"[mb:2525] error creating imposter: {\"code\":\"EADDRINUSE\",\"errno\":-48,\"syscall\":\"listen\",\"address\":\"::\",\"port\":4545,\"message\":\"listen EADDRINUSE: address already in use :::4545\",\"name\":\"Error\",\"stack\":\"Error: listen EADDRINUSE: address already in use :::4545\\n    at Server.setupListenHandle [as _listen2] (node:net:1898:16)\\n    at listenInCluster (node:net:1946:12)\\n    at Server.listen (node:net:2044:7)\\n    at /Users/danilayanvarev/.nvm/versions/node/v20.13.1/lib/node_modules/mountebank/src/models/http/baseHttpServer.js:172:20\\n    at new Promise (<anonymous>)\\n    at create (/Users/danilayanvarev/.nvm/versions/node/v20.13.1/lib/node_modules/mountebank/src/models/http/baseHttpServer.js:158:16)\\n    at Object.createServer (/Users/danilayanvarev/.nvm/versions/node/v20.13.1/lib/node_modules/mountebank/src/models/protocols.js:35:34)\\n    at /Users/danilayanvarev/.nvm/versions/node/v20.13.1/lib/node_modules/mountebank/src/models/imposter.js:198:22\\n    at new Promise (<anonymous>)\\n    at Object.create (/Users/danilayanvarev/.nvm/versions/node/v20.13.1/lib/node_modules/mountebank/src/models/imposter.js:192:12)\"}","timestamp":"2025-04-12T14:29:25.008Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62206 => GET /rate?from=USD&to=EUR","timestamp":"2025-04-12T14:29:25.010Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62207 => GET /rate?from=EUR&to=USD","timestamp":"2025-04-12T14:29:25.011Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62208 => GET /rate?from=EUR&to=RUB","timestamp":"2025-04-12T14:29:25.013Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62209 => GET /rate?from=USD&to=RUB","timestamp":"2025-04-12T14:29:25.015Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62210 => GET /rate?from=RUB&to=EUR","timestamp":"2025-04-12T14:29:25.018Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62211 => GET /rate?from=RUB&to=USD","timestamp":"2025-04-12T14:29:25.021Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62212 => GET /rate?from=EUR&to=CHF","timestamp":"2025-04-12T14:29:25.023Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62213 => GET /rate?from=CHF&to=EUR","timestamp":"2025-04-12T14:29:25.025Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62251 => GET /rate?from=XYZ&to=ABC","timestamp":"2025-04-12T14:31:45.827Z"}
+{"level":"info","message":"[http:4545 Currency Mock] no predicate match, using default response","timestamp":"2025-04-12T14:31:45.828Z"}
+{"level":"info","message":"[mb:2525] POST /imposters","timestamp":"2025-04-12T14:31:50.876Z"}
+{"level":"error","message":"[mb:2525] error creating imposter: {\"code\":\"EADDRINUSE\",\"errno\":-48,\"syscall\":\"listen\",\"address\":\"::\",\"port\":4545,\"message\":\"listen EADDRINUSE: address already in use :::4545\",\"name\":\"Error\",\"stack\":\"Error: listen EADDRINUSE: address already in use :::4545\\n    at Server.setupListenHandle [as _listen2] (node:net:1898:16)\\n    at listenInCluster (node:net:1946:12)\\n    at Server.listen (node:net:2044:7)\\n    at /Users/danilayanvarev/.nvm/versions/node/v20.13.1/lib/node_modules/mountebank/src/models/http/baseHttpServer.js:172:20\\n    at new Promise (<anonymous>)\\n    at create (/Users/danilayanvarev/.nvm/versions/node/v20.13.1/lib/node_modules/mountebank/src/models/http/baseHttpServer.js:158:16)\\n    at Object.createServer (/Users/danilayanvarev/.nvm/versions/node/v20.13.1/lib/node_modules/mountebank/src/models/protocols.js:35:34)\\n    at /Users/danilayanvarev/.nvm/versions/node/v20.13.1/lib/node_modules/mountebank/src/models/imposter.js:198:22\\n    at new Promise (<anonymous>)\\n    at Object.create (/Users/danilayanvarev/.nvm/versions/node/v20.13.1/lib/node_modules/mountebank/src/models/imposter.js:192:12)\"}","timestamp":"2025-04-12T14:31:50.877Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62257 => GET /rate?from=USD&to=EUR","timestamp":"2025-04-12T14:31:50.879Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62258 => GET /rate?from=EUR&to=USD","timestamp":"2025-04-12T14:31:50.882Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62259 => GET /rate?from=EUR&to=RUB","timestamp":"2025-04-12T14:31:50.884Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62260 => GET /rate?from=USD&to=RUB","timestamp":"2025-04-12T14:31:50.886Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62261 => GET /rate?from=RUB&to=EUR","timestamp":"2025-04-12T14:31:50.888Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62262 => GET /rate?from=RUB&to=USD","timestamp":"2025-04-12T14:31:50.891Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62263 => GET /rate?from=EUR&to=CHF","timestamp":"2025-04-12T14:31:50.894Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62264 => GET /rate?from=CHF&to=EUR","timestamp":"2025-04-12T14:31:50.896Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62282 => GET /rate?from=RUB&to=USD","timestamp":"2025-04-12T14:32:15.511Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62283 => GET /favicon.ico","timestamp":"2025-04-12T14:32:15.618Z"}
+{"level":"info","message":"[http:4545 Currency Mock] no predicate match, using default response","timestamp":"2025-04-12T14:32:15.619Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62289 => GET /rate?from=RUB&to=XYZ","timestamp":"2025-04-12T14:32:19.364Z"}
+{"level":"info","message":"[http:4545 Currency Mock] no predicate match, using default response","timestamp":"2025-04-12T14:32:19.365Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62290 => GET /favicon.ico","timestamp":"2025-04-12T14:32:19.445Z"}
+{"level":"info","message":"[http:4545 Currency Mock] no predicate match, using default response","timestamp":"2025-04-12T14:32:19.447Z"}
+{"level":"info","message":"[http:4545 Currency Mock] ::1:62305 => GET /rate?from=RUB&to=XYZ","timestamp":"2025-04-12T14:32:33.715Z"}
+{"level":"info","message":"[http:4545 Currency Mock] no predicate match, using default response","timestamp":"2025-04-12T14:32:33.716Z"}
+{"level":"info","message":"[mb:2525] Adios - see you soon?","timestamp":"2025-04-12T14:32:47.555Z"}

@@ -1,0 +1,506 @@
+{
+  "CarClass.dll": {
+    "/Users/danilayanvarev/Desktop/qa/Lab6/Car/CarClass/CarClass.cs": {
+      "CarClass.Car": {
+        "System.Boolean CarClass.Car::IsTurnedOn()": {
+          "Lines": {
+            "47": 69
+          },
+          "Branches": []
+        },
+        "System.Int32 CarClass.Car::GetSpeed()": {
+          "Lines": {
+            "48": 20
+          },
+          "Branches": []
+        },
+        "CarClass.Gear CarClass.Car::GetGear()": {
+          "Lines": {
+            "49": 21
+          },
+          "Branches": []
+        },
+        "CarClass.Direction CarClass.Car::GetDirection()": {
+          "Lines": {
+            "50": 20
+          },
+          "Branches": []
+        },
+        "System.Boolean CarClass.Car::TurnOnEngine()": {
+          "Lines": {
+            "53": 18,
+            "54": 18,
+            "55": 18,
+            "56": 18
+          },
+          "Branches": []
+        },
+        "System.Boolean CarClass.Car::TurnOffEngine()": {
+          "Lines": {
+            "59": 3,
+            "60": 4,
+            "61": 2,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "68": 2,
+            "69": 3
+          },
+          "Branches": [
+            {
+              "Line": 60,
+              "Offset": 12,
+              "EndOffset": 14,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 60,
+              "Offset": 12,
+              "EndOffset": 18,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 61,
+              "Offset": 24,
+              "EndOffset": 26,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 61,
+              "Offset": 24,
+              "EndOffset": 37,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 61,
+              "Offset": 40,
+              "EndOffset": 42,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 61,
+              "Offset": 40,
+              "EndOffset": 61,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 2
+            }
+          ]
+        },
+        "System.Boolean CarClass.Car::SetGear(System.Int32)": {
+          "Lines": {
+            "72": 28,
+            "73": 28,
+            "74": 1,
+            "75": 1,
+            "76": 1,
+            "79": 27,
+            "80": 2,
+            "81": 2,
+            "82": 2,
+            "85": 25,
+            "86": 2,
+            "87": 2,
+            "88": 2,
+            "91": 23,
+            "92": 1,
+            "93": 1,
+            "94": 1,
+            "97": 22,
+            "98": 1,
+            "99": 1,
+            "100": 1,
+            "103": 21,
+            "104": 21,
+            "105": 21,
+            "106": 21,
+            "107": 21,
+            "108": 21,
+            "111": 0,
+            "112": 0,
+            "113": 28
+          },
+          "Branches": [
+            {
+              "Line": 73,
+              "Offset": 7,
+              "EndOffset": 9,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 73,
+              "Offset": 7,
+              "EndOffset": 15,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 27
+            },
+            {
+              "Line": 73,
+              "Offset": 18,
+              "EndOffset": 20,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 73,
+              "Offset": 18,
+              "EndOffset": 39,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 27
+            },
+            {
+              "Line": 79,
+              "Offset": 67,
+              "EndOffset": 69,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 2
+            },
+            {
+              "Line": 79,
+              "Offset": 67,
+              "EndOffset": 88,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 25
+            },
+            {
+              "Line": 85,
+              "Offset": 96,
+              "EndOffset": 98,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 2
+            },
+            {
+              "Line": 85,
+              "Offset": 96,
+              "EndOffset": 113,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 23
+            },
+            {
+              "Line": 91,
+              "Offset": 119,
+              "EndOffset": 121,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 10
+            },
+            {
+              "Line": 91,
+              "Offset": 128,
+              "EndOffset": 130,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 10
+            },
+            {
+              "Line": 91,
+              "Offset": 119,
+              "EndOffset": 136,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 13
+            },
+            {
+              "Line": 91,
+              "Offset": 128,
+              "EndOffset": 136,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 13
+            },
+            {
+              "Line": 91,
+              "Offset": 141,
+              "EndOffset": 143,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 1
+            },
+            {
+              "Line": 91,
+              "Offset": 141,
+              "EndOffset": 162,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 22
+            },
+            {
+              "Line": 97,
+              "Offset": 169,
+              "EndOffset": 171,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 1
+            },
+            {
+              "Line": 97,
+              "Offset": 172,
+              "EndOffset": 174,
+              "Path": 0,
+              "Ordinal": 16,
+              "Hits": 1
+            },
+            {
+              "Line": 97,
+              "Offset": 169,
+              "EndOffset": 183,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 21
+            },
+            {
+              "Line": 97,
+              "Offset": 172,
+              "EndOffset": 183,
+              "Path": 1,
+              "Ordinal": 17,
+              "Hits": 21
+            },
+            {
+              "Line": 97,
+              "Offset": 188,
+              "EndOffset": 190,
+              "Path": 0,
+              "Ordinal": 18,
+              "Hits": 1
+            },
+            {
+              "Line": 97,
+              "Offset": 188,
+              "EndOffset": 206,
+              "Path": 1,
+              "Ordinal": 19,
+              "Hits": 21
+            },
+            {
+              "Line": 104,
+              "Offset": 237,
+              "EndOffset": 239,
+              "Path": 0,
+              "Ordinal": 20,
+              "Hits": 21
+            },
+            {
+              "Line": 104,
+              "Offset": 237,
+              "EndOffset": 253,
+              "Path": 1,
+              "Ordinal": 21,
+              "Hits": 0
+            },
+            {
+              "Line": 104,
+              "Offset": 258,
+              "EndOffset": 260,
+              "Path": 0,
+              "Ordinal": 22,
+              "Hits": 21
+            },
+            {
+              "Line": 107,
+              "Offset": 276,
+              "EndOffset": 278,
+              "Path": 0,
+              "Ordinal": 24,
+              "Hits": 17
+            },
+            {
+              "Line": 107,
+              "Offset": 276,
+              "EndOffset": 281,
+              "Path": 1,
+              "Ordinal": 25,
+              "Hits": 4
+            },
+            {
+              "Line": 104,
+              "Offset": 258,
+              "EndOffset": 291,
+              "Path": 1,
+              "Ordinal": 23,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Boolean CarClass.Car::SetSpeed(System.Int32)": {
+          "Lines": {
+            "116": 22,
+            "117": 22,
+            "118": 1,
+            "119": 1,
+            "120": 1,
+            "123": 21,
+            "124": 1,
+            "125": 1,
+            "126": 1,
+            "129": 20,
+            "130": 2,
+            "131": 2,
+            "132": 1,
+            "133": 1,
+            "134": 1,
+            "137": 1,
+            "138": 1,
+            "141": 18,
+            "142": 18,
+            "143": 16,
+            "144": 16,
+            "145": 16,
+            "148": 2,
+            "149": 2,
+            "150": 22
+          },
+          "Branches": [
+            {
+              "Line": 117,
+              "Offset": 7,
+              "EndOffset": 9,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 117,
+              "Offset": 7,
+              "EndOffset": 28,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 21
+            },
+            {
+              "Line": 123,
+              "Offset": 41,
+              "EndOffset": 43,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 123,
+              "Offset": 41,
+              "EndOffset": 62,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 20
+            },
+            {
+              "Line": 129,
+              "Offset": 75,
+              "EndOffset": 77,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 2
+            },
+            {
+              "Line": 131,
+              "Offset": 94,
+              "EndOffset": 96,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 131,
+              "Offset": 94,
+              "EndOffset": 112,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 1
+            },
+            {
+              "Line": 129,
+              "Offset": 75,
+              "EndOffset": 123,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 18
+            },
+            {
+              "Line": 142,
+              "Offset": 154,
+              "EndOffset": 156,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 18
+            },
+            {
+              "Line": 142,
+              "Offset": 154,
+              "EndOffset": 165,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 142,
+              "Offset": 170,
+              "EndOffset": 172,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 16
+            },
+            {
+              "Line": 142,
+              "Offset": 170,
+              "EndOffset": 184,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 2
+            }
+          ]
+        },
+        "System.Void CarClass.Car::.ctor()": {
+          "Lines": {
+            "23": 21,
+            "24": 21,
+            "25": 21,
+            "26": 21,
+            "39": 21,
+            "40": 21,
+            "41": 21,
+            "42": 21,
+            "43": 21,
+            "44": 21,
+            "45": 21
+          },
+          "Branches": []
+        },
+        "System.Void CarClass.Car::.cctor()": {
+          "Lines": {
+            "28": 1,
+            "29": 1,
+            "30": 1,
+            "31": 1,
+            "32": 1,
+            "33": 1,
+            "34": 1,
+            "35": 1,
+            "36": 1,
+            "37": 1
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

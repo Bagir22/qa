@@ -1,0 +1,14 @@
+/Users/danilayanvarev/Desktop/qa/Lab1/Lab1/Lab1/bin/Debug/net9.0/Lab1
+/Users/danilayanvarev/Desktop/qa/Lab1/Lab1/Lab1/bin/Debug/net9.0/Lab1.deps.json
+/Users/danilayanvarev/Desktop/qa/Lab1/Lab1/Lab1/bin/Debug/net9.0/Lab1.runtimeconfig.json
+/Users/danilayanvarev/Desktop/qa/Lab1/Lab1/Lab1/bin/Debug/net9.0/Lab1.dll
+/Users/danilayanvarev/Desktop/qa/Lab1/Lab1/Lab1/bin/Debug/net9.0/Lab1.pdb
+/Users/danilayanvarev/Desktop/qa/Lab1/Lab1/Lab1/obj/Debug/net9.0/Lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilayanvarev/Desktop/qa/Lab1/Lab1/Lab1/obj/Debug/net9.0/Lab1.AssemblyInfoInputs.cache
+/Users/danilayanvarev/Desktop/qa/Lab1/Lab1/Lab1/obj/Debug/net9.0/Lab1.AssemblyInfo.cs
+/Users/danilayanvarev/Desktop/qa/Lab1/Lab1/Lab1/obj/Debug/net9.0/Lab1.csproj.CoreCompileInputs.cache
+/Users/danilayanvarev/Desktop/qa/Lab1/Lab1/Lab1/obj/Debug/net9.0/Lab1.dll
+/Users/danilayanvarev/Desktop/qa/Lab1/Lab1/Lab1/obj/Debug/net9.0/refint/Lab1.dll
+/Users/danilayanvarev/Desktop/qa/Lab1/Lab1/Lab1/obj/Debug/net9.0/Lab1.pdb
+/Users/danilayanvarev/Desktop/qa/Lab1/Lab1/Lab1/obj/Debug/net9.0/Lab1.genruntimeconfig.cache
+/Users/danilayanvarev/Desktop/qa/Lab1/Lab1/Lab1/obj/Debug/net9.0/ref/Lab1.dll

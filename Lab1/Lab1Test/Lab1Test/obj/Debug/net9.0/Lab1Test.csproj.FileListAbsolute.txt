@@ -1,0 +1,14 @@
+/Users/danilayanvarev/Desktop/qa/Lab1/Lab1Test/Lab1Test/bin/Debug/net9.0/Lab1Test
+/Users/danilayanvarev/Desktop/qa/Lab1/Lab1Test/Lab1Test/bin/Debug/net9.0/Lab1Test.deps.json
+/Users/danilayanvarev/Desktop/qa/Lab1/Lab1Test/Lab1Test/bin/Debug/net9.0/Lab1Test.runtimeconfig.json
+/Users/danilayanvarev/Desktop/qa/Lab1/Lab1Test/Lab1Test/bin/Debug/net9.0/Lab1Test.dll
+/Users/danilayanvarev/Desktop/qa/Lab1/Lab1Test/Lab1Test/bin/Debug/net9.0/Lab1Test.pdb
+/Users/danilayanvarev/Desktop/qa/Lab1/Lab1Test/Lab1Test/obj/Debug/net9.0/Lab1Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilayanvarev/Desktop/qa/Lab1/Lab1Test/Lab1Test/obj/Debug/net9.0/Lab1Test.AssemblyInfoInputs.cache
+/Users/danilayanvarev/Desktop/qa/Lab1/Lab1Test/Lab1Test/obj/Debug/net9.0/Lab1Test.AssemblyInfo.cs
+/Users/danilayanvarev/Desktop/qa/Lab1/Lab1Test/Lab1Test/obj/Debug/net9.0/Lab1Test.csproj.CoreCompileInputs.cache
+/Users/danilayanvarev/Desktop/qa/Lab1/Lab1Test/Lab1Test/obj/Debug/net9.0/Lab1Test.dll
+/Users/danilayanvarev/Desktop/qa/Lab1/Lab1Test/Lab1Test/obj/Debug/net9.0/refint/Lab1Test.dll
+/Users/danilayanvarev/Desktop/qa/Lab1/Lab1Test/Lab1Test/obj/Debug/net9.0/Lab1Test.pdb
+/Users/danilayanvarev/Desktop/qa/Lab1/Lab1Test/Lab1Test/obj/Debug/net9.0/Lab1Test.genruntimeconfig.cache
+/Users/danilayanvarev/Desktop/qa/Lab1/Lab1Test/Lab1Test/obj/Debug/net9.0/ref/Lab1Test.dll
